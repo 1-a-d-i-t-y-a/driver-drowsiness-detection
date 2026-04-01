@@ -32,6 +32,7 @@ def main():
     print("   Driver Drowsiness Detection System")
     print("   Computer Vision Course — BYOP")
     print("="*55)
+    print("   Version: 1.0  |  Author: Aditya")
 
     detector = DrowsinessDetector()
     try:
