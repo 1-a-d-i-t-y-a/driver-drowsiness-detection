@@ -199,4 +199,4 @@ driver-drowsiness-detection/
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project was developed for academic and educational purposes as part of the Computer Vision curriculum at VIT. See the [Project Report](report/project_report.md) for full project details.
